@@ -20,7 +20,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ffd700&height=120&section=footer"/>
 
 <!--
 **AguilarPena/AguilarPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
