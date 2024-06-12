@@ -21,7 +21,7 @@
    </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ffd700&height=120&section=footer"/>
-
+![Snake animation](https://github.com/AguilarPena/AguilarPena/blob/output/github-contribution-grid-snake.svg)
 <!--
 **AguilarPena/AguilarPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
