@@ -22,7 +22,7 @@
 
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: emanuel.aguilar.pena@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://th.bing.com/th/id/R.3d338bf9ed416194be345914aed14f18?rik=HqrEGqSx9s1t9Q&pid=ImgRaw&r=0&sres=1&sresct=1">
     </a>
     <a href = "https://www.linkedin.com/in/emanuel-aguilar-pena-914b63293/">
       <img width="25" src="linkedin.svg">
