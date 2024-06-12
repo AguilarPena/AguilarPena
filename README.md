@@ -25,7 +25,7 @@
       <img width="30" src="https://th.bing.com/th/id/R.3d338bf9ed416194be345914aed14f18?rik=HqrEGqSx9s1t9Q&pid=ImgRaw&r=0&sres=1&sresct=1">
     </a>
     <a href = "https://www.linkedin.com/in/emanuel-aguilar-pena-914b63293/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png">
     </a>
     <a href = "https://www.instagram.com/emanuelaguilaar/">
       <img width="25" src="https://movezen360.com/wp-content/uploads/2023/10/MoveZen-property-management-on-instagram.png">
