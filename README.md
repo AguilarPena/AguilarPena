@@ -28,7 +28,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/emanuelaguilaar/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="https://movezen360.com/wp-content/uploads/2023/10/MoveZen-property-management-on-instagram.png">
     </a>
 </div>
 
